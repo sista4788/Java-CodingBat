@@ -1,2 +1,2 @@
-# Javascript-CodingBat
-Contains all the codingBat exercises in Javascript languages.
+# Java-CodingBat
+Contains all the codingBat exercises in Java languages.
